@@ -1,8 +1,13 @@
 export const products = [
   {
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'HUAWEI Mate30 pro',
+    price:6899,
+    description: '麒麟990 5G旗舰SoC芯片，支持双模SA/NSA；超感光徕卡电影四摄；超曲面OLED环幕屏；40W'
+  },
+   {
+    name: 'HUAWEI Mate30',
+    price:4899,
+    description: '麒麟990 5G旗舰SoC芯片，支持双模SA/NSA；超感光徕卡电影三摄；40W有线与27W'
   },
   {
     name: 'Phone Mini',
@@ -17,8 +22,3 @@ export const products = [
 ];
 
 
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at http://angular.io/license
-*/
